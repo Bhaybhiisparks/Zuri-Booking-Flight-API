@@ -1,0 +1,3 @@
+exampleModel = [];
+
+module.exports = exampleModel;
